@@ -1,4 +1,4 @@
-# SmushChat - AI Customer Support Widget for Your WebsiteCancel
+# SmushChat - AI Customer Support Widget for Your Website
 
 ![SmushChat](https://media.contra.com/image/upload/fl_progressive/q_auto:best/ahetjnt5kuhreuw0htd6.webp)
 
